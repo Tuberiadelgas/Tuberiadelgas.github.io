@@ -1,0 +1,19 @@
+h1 {text-align:center; 
+  padding:20px;
+  border-style:solid; 
+  background-color:lightyellow;}
+body{background-color:orange;}
+td {font-size:50px;color:red;} 
+Table {table-align:center;}
+.muc {text-align:center; 
+  padding:20px;
+  border-style:solid;
+  color:white;}
+img {text-align:center;
+  border-style:dotted; 
+  background-color:black;}
+form {text-align:center;
+  border-style:dotted; 
+  background-color:pink;}
+  h3 {margin: 100px 100px 100px 100px;}
+
